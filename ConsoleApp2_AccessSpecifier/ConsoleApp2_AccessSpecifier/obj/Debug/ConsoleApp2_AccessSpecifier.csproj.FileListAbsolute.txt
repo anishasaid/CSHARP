@@ -1,0 +1,7 @@
+C:\Users\Tech-Guru\source\repos\ConsoleApp2_AccessSpecifier\ConsoleApp2_AccessSpecifier\bin\Debug\ConsoleApp2_AccessSpecifier.exe.config
+C:\Users\Tech-Guru\source\repos\ConsoleApp2_AccessSpecifier\ConsoleApp2_AccessSpecifier\bin\Debug\ConsoleApp2_AccessSpecifier.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp2_AccessSpecifier\ConsoleApp2_AccessSpecifier\bin\Debug\ConsoleApp2_AccessSpecifier.pdb
+C:\Users\Tech-Guru\source\repos\ConsoleApp2_AccessSpecifier\ConsoleApp2_AccessSpecifier\obj\Debug\ConsoleApp2_AccessSpecifier.csproj.AssemblyReference.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp2_AccessSpecifier\ConsoleApp2_AccessSpecifier\obj\Debug\ConsoleApp2_AccessSpecifier.csproj.CoreCompileInputs.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp2_AccessSpecifier\ConsoleApp2_AccessSpecifier\obj\Debug\ConsoleApp2_AccessSpecifier.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp2_AccessSpecifier\ConsoleApp2_AccessSpecifier\obj\Debug\ConsoleApp2_AccessSpecifier.pdb
