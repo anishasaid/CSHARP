@@ -1,0 +1,7 @@
+C:\Users\Tech-Guru\source\repos\ConsoleApp3_Variables\ConsoleApp3_Variables\bin\Debug\ConsoleApp3_Variables.exe.config
+C:\Users\Tech-Guru\source\repos\ConsoleApp3_Variables\ConsoleApp3_Variables\bin\Debug\ConsoleApp3_Variables.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp3_Variables\ConsoleApp3_Variables\bin\Debug\ConsoleApp3_Variables.pdb
+C:\Users\Tech-Guru\source\repos\ConsoleApp3_Variables\ConsoleApp3_Variables\obj\Debug\ConsoleApp3_Variables.csproj.AssemblyReference.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp3_Variables\ConsoleApp3_Variables\obj\Debug\ConsoleApp3_Variables.csproj.CoreCompileInputs.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp3_Variables\ConsoleApp3_Variables\obj\Debug\ConsoleApp3_Variables.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp3_Variables\ConsoleApp3_Variables\obj\Debug\ConsoleApp3_Variables.pdb
