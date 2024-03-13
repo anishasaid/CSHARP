@@ -1,0 +1,7 @@
+C:\Users\Tech-Guru\source\repos\ConsoleApp4_Inheritance\ConsoleApp4_Inheritance\bin\Debug\ConsoleApp4_Inheritance.exe.config
+C:\Users\Tech-Guru\source\repos\ConsoleApp4_Inheritance\ConsoleApp4_Inheritance\bin\Debug\ConsoleApp4_Inheritance.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp4_Inheritance\ConsoleApp4_Inheritance\bin\Debug\ConsoleApp4_Inheritance.pdb
+C:\Users\Tech-Guru\source\repos\ConsoleApp4_Inheritance\ConsoleApp4_Inheritance\obj\Debug\ConsoleApp4_Inheritance.csproj.AssemblyReference.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp4_Inheritance\ConsoleApp4_Inheritance\obj\Debug\ConsoleApp4_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp4_Inheritance\ConsoleApp4_Inheritance\obj\Debug\ConsoleApp4_Inheritance.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp4_Inheritance\ConsoleApp4_Inheritance\obj\Debug\ConsoleApp4_Inheritance.pdb
