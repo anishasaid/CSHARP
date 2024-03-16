@@ -1,0 +1,7 @@
+C:\Users\Tech-Guru\source\repos\ConsoleApp5_Polymorphism\ConsoleApp5_Polymorphism\bin\Debug\ConsoleApp5_Polymorphism.exe.config
+C:\Users\Tech-Guru\source\repos\ConsoleApp5_Polymorphism\ConsoleApp5_Polymorphism\bin\Debug\ConsoleApp5_Polymorphism.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp5_Polymorphism\ConsoleApp5_Polymorphism\bin\Debug\ConsoleApp5_Polymorphism.pdb
+C:\Users\Tech-Guru\source\repos\ConsoleApp5_Polymorphism\ConsoleApp5_Polymorphism\obj\Debug\ConsoleApp5_Polymorphism.csproj.AssemblyReference.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp5_Polymorphism\ConsoleApp5_Polymorphism\obj\Debug\ConsoleApp5_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp5_Polymorphism\ConsoleApp5_Polymorphism\obj\Debug\ConsoleApp5_Polymorphism.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp5_Polymorphism\ConsoleApp5_Polymorphism\obj\Debug\ConsoleApp5_Polymorphism.pdb
