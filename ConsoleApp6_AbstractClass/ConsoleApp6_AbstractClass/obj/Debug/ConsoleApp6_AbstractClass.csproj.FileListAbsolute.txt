@@ -1,0 +1,7 @@
+C:\Users\Tech-Guru\source\repos\ConsoleApp6_AbstractClass\ConsoleApp6_AbstractClass\bin\Debug\ConsoleApp6_AbstractClass.exe.config
+C:\Users\Tech-Guru\source\repos\ConsoleApp6_AbstractClass\ConsoleApp6_AbstractClass\bin\Debug\ConsoleApp6_AbstractClass.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp6_AbstractClass\ConsoleApp6_AbstractClass\bin\Debug\ConsoleApp6_AbstractClass.pdb
+C:\Users\Tech-Guru\source\repos\ConsoleApp6_AbstractClass\ConsoleApp6_AbstractClass\obj\Debug\ConsoleApp6_AbstractClass.csproj.AssemblyReference.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp6_AbstractClass\ConsoleApp6_AbstractClass\obj\Debug\ConsoleApp6_AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp6_AbstractClass\ConsoleApp6_AbstractClass\obj\Debug\ConsoleApp6_AbstractClass.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp6_AbstractClass\ConsoleApp6_AbstractClass\obj\Debug\ConsoleApp6_AbstractClass.pdb
