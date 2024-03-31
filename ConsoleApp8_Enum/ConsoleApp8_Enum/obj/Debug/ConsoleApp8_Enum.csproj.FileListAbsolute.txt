@@ -1,0 +1,7 @@
+C:\Users\Tech-Guru\source\repos\ConsoleApp8_Enum\ConsoleApp8_Enum\bin\Debug\ConsoleApp8_Enum.exe.config
+C:\Users\Tech-Guru\source\repos\ConsoleApp8_Enum\ConsoleApp8_Enum\bin\Debug\ConsoleApp8_Enum.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp8_Enum\ConsoleApp8_Enum\bin\Debug\ConsoleApp8_Enum.pdb
+C:\Users\Tech-Guru\source\repos\ConsoleApp8_Enum\ConsoleApp8_Enum\obj\Debug\ConsoleApp8_Enum.csproj.AssemblyReference.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp8_Enum\ConsoleApp8_Enum\obj\Debug\ConsoleApp8_Enum.csproj.CoreCompileInputs.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp8_Enum\ConsoleApp8_Enum\obj\Debug\ConsoleApp8_Enum.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp8_Enum\ConsoleApp8_Enum\obj\Debug\ConsoleApp8_Enum.pdb
