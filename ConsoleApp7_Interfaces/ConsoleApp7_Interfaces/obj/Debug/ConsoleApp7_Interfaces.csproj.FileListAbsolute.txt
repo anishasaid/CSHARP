@@ -1,0 +1,7 @@
+C:\Users\Tech-Guru\source\repos\ConsoleApp7_Interfaces\ConsoleApp7_Interfaces\bin\Debug\ConsoleApp7_Interfaces.exe.config
+C:\Users\Tech-Guru\source\repos\ConsoleApp7_Interfaces\ConsoleApp7_Interfaces\bin\Debug\ConsoleApp7_Interfaces.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp7_Interfaces\ConsoleApp7_Interfaces\bin\Debug\ConsoleApp7_Interfaces.pdb
+C:\Users\Tech-Guru\source\repos\ConsoleApp7_Interfaces\ConsoleApp7_Interfaces\obj\Debug\ConsoleApp7_Interfaces.csproj.AssemblyReference.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp7_Interfaces\ConsoleApp7_Interfaces\obj\Debug\ConsoleApp7_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp7_Interfaces\ConsoleApp7_Interfaces\obj\Debug\ConsoleApp7_Interfaces.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp7_Interfaces\ConsoleApp7_Interfaces\obj\Debug\ConsoleApp7_Interfaces.pdb
