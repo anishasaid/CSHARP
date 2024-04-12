@@ -1,0 +1,7 @@
+C:\Users\Tech-Guru\source\repos\ConsoleApp10_Property\ConsoleApp10_Property\bin\Debug\ConsoleApp10_Property.exe.config
+C:\Users\Tech-Guru\source\repos\ConsoleApp10_Property\ConsoleApp10_Property\bin\Debug\ConsoleApp10_Property.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp10_Property\ConsoleApp10_Property\bin\Debug\ConsoleApp10_Property.pdb
+C:\Users\Tech-Guru\source\repos\ConsoleApp10_Property\ConsoleApp10_Property\obj\Debug\ConsoleApp10_Property.csproj.AssemblyReference.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp10_Property\ConsoleApp10_Property\obj\Debug\ConsoleApp10_Property.csproj.CoreCompileInputs.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp10_Property\ConsoleApp10_Property\obj\Debug\ConsoleApp10_Property.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp10_Property\ConsoleApp10_Property\obj\Debug\ConsoleApp10_Property.pdb
