@@ -1,0 +1,7 @@
+C:\Users\Tech-Guru\source\repos\ConsoleApp8_Structure\ConsoleApp8_Structure\bin\Debug\ConsoleApp8_Structure.exe.config
+C:\Users\Tech-Guru\source\repos\ConsoleApp8_Structure\ConsoleApp8_Structure\bin\Debug\ConsoleApp8_Structure.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp8_Structure\ConsoleApp8_Structure\bin\Debug\ConsoleApp8_Structure.pdb
+C:\Users\Tech-Guru\source\repos\ConsoleApp8_Structure\ConsoleApp8_Structure\obj\Debug\ConsoleApp8_Structure.csproj.AssemblyReference.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp8_Structure\ConsoleApp8_Structure\obj\Debug\ConsoleApp8_Structure.csproj.CoreCompileInputs.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp8_Structure\ConsoleApp8_Structure\obj\Debug\ConsoleApp8_Structure.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp8_Structure\ConsoleApp8_Structure\obj\Debug\ConsoleApp8_Structure.pdb
