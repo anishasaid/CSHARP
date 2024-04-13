@@ -1,0 +1,7 @@
+C:\Users\Tech-Guru\source\repos\ConsoleApp11_Delegates\ConsoleApp11_Delegates\bin\Debug\ConsoleApp11_Delegates.exe.config
+C:\Users\Tech-Guru\source\repos\ConsoleApp11_Delegates\ConsoleApp11_Delegates\bin\Debug\ConsoleApp11_Delegates.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp11_Delegates\ConsoleApp11_Delegates\bin\Debug\ConsoleApp11_Delegates.pdb
+C:\Users\Tech-Guru\source\repos\ConsoleApp11_Delegates\ConsoleApp11_Delegates\obj\Debug\ConsoleApp11_Delegates.csproj.AssemblyReference.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp11_Delegates\ConsoleApp11_Delegates\obj\Debug\ConsoleApp11_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp11_Delegates\ConsoleApp11_Delegates\obj\Debug\ConsoleApp11_Delegates.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp11_Delegates\ConsoleApp11_Delegates\obj\Debug\ConsoleApp11_Delegates.pdb
