@@ -1,0 +1,7 @@
+C:\Users\Tech-Guru\source\repos\ConsoleApp13_LambdaExpression\ConsoleApp13_LambdaExpression\bin\Debug\ConsoleApp13_LambdaExpression.exe.config
+C:\Users\Tech-Guru\source\repos\ConsoleApp13_LambdaExpression\ConsoleApp13_LambdaExpression\bin\Debug\ConsoleApp13_LambdaExpression.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp13_LambdaExpression\ConsoleApp13_LambdaExpression\bin\Debug\ConsoleApp13_LambdaExpression.pdb
+C:\Users\Tech-Guru\source\repos\ConsoleApp13_LambdaExpression\ConsoleApp13_LambdaExpression\obj\Debug\ConsoleApp13_LambdaExpression.csproj.AssemblyReference.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp13_LambdaExpression\ConsoleApp13_LambdaExpression\obj\Debug\ConsoleApp13_LambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp13_LambdaExpression\ConsoleApp13_LambdaExpression\obj\Debug\ConsoleApp13_LambdaExpression.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp13_LambdaExpression\ConsoleApp13_LambdaExpression\obj\Debug\ConsoleApp13_LambdaExpression.pdb
