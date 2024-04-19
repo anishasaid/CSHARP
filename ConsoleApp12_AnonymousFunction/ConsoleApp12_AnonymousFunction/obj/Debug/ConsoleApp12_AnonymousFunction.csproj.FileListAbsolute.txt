@@ -1,0 +1,7 @@
+C:\Users\Tech-Guru\source\repos\ConsoleApp12_AnonymousFunction\ConsoleApp12_AnonymousFunction\bin\Debug\ConsoleApp12_AnonymousFunction.exe.config
+C:\Users\Tech-Guru\source\repos\ConsoleApp12_AnonymousFunction\ConsoleApp12_AnonymousFunction\bin\Debug\ConsoleApp12_AnonymousFunction.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp12_AnonymousFunction\ConsoleApp12_AnonymousFunction\bin\Debug\ConsoleApp12_AnonymousFunction.pdb
+C:\Users\Tech-Guru\source\repos\ConsoleApp12_AnonymousFunction\ConsoleApp12_AnonymousFunction\obj\Debug\ConsoleApp12_AnonymousFunction.csproj.AssemblyReference.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp12_AnonymousFunction\ConsoleApp12_AnonymousFunction\obj\Debug\ConsoleApp12_AnonymousFunction.csproj.CoreCompileInputs.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp12_AnonymousFunction\ConsoleApp12_AnonymousFunction\obj\Debug\ConsoleApp12_AnonymousFunction.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp12_AnonymousFunction\ConsoleApp12_AnonymousFunction\obj\Debug\ConsoleApp12_AnonymousFunction.pdb
