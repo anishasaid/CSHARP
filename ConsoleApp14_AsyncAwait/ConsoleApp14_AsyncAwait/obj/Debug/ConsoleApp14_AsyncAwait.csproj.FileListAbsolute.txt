@@ -1,0 +1,7 @@
+C:\Users\Tech-Guru\source\repos\ConsoleApp14_AsyncAwait\ConsoleApp14_AsyncAwait\bin\Debug\ConsoleApp14_AsyncAwait.exe.config
+C:\Users\Tech-Guru\source\repos\ConsoleApp14_AsyncAwait\ConsoleApp14_AsyncAwait\bin\Debug\ConsoleApp14_AsyncAwait.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp14_AsyncAwait\ConsoleApp14_AsyncAwait\bin\Debug\ConsoleApp14_AsyncAwait.pdb
+C:\Users\Tech-Guru\source\repos\ConsoleApp14_AsyncAwait\ConsoleApp14_AsyncAwait\obj\Debug\ConsoleApp14_AsyncAwait.csproj.AssemblyReference.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp14_AsyncAwait\ConsoleApp14_AsyncAwait\obj\Debug\ConsoleApp14_AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\Tech-Guru\source\repos\ConsoleApp14_AsyncAwait\ConsoleApp14_AsyncAwait\obj\Debug\ConsoleApp14_AsyncAwait.exe
+C:\Users\Tech-Guru\source\repos\ConsoleApp14_AsyncAwait\ConsoleApp14_AsyncAwait\obj\Debug\ConsoleApp14_AsyncAwait.pdb
