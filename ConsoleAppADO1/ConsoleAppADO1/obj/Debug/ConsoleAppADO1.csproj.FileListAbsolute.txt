@@ -1,0 +1,7 @@
+C:\Users\Tech-Guru\source\repos\ConsoleAppADO1\ConsoleAppADO1\bin\Debug\ConsoleAppADO1.exe.config
+C:\Users\Tech-Guru\source\repos\ConsoleAppADO1\ConsoleAppADO1\bin\Debug\ConsoleAppADO1.exe
+C:\Users\Tech-Guru\source\repos\ConsoleAppADO1\ConsoleAppADO1\bin\Debug\ConsoleAppADO1.pdb
+C:\Users\Tech-Guru\source\repos\ConsoleAppADO1\ConsoleAppADO1\obj\Debug\ConsoleAppADO1.csproj.AssemblyReference.cache
+C:\Users\Tech-Guru\source\repos\ConsoleAppADO1\ConsoleAppADO1\obj\Debug\ConsoleAppADO1.csproj.CoreCompileInputs.cache
+C:\Users\Tech-Guru\source\repos\ConsoleAppADO1\ConsoleAppADO1\obj\Debug\ConsoleAppADO1.exe
+C:\Users\Tech-Guru\source\repos\ConsoleAppADO1\ConsoleAppADO1\obj\Debug\ConsoleAppADO1.pdb
